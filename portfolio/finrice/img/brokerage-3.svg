@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="57" height="42" viewBox="0 0 57 42">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#40c4ff;stroke-linecap:round;stroke-linejoin:round;stroke-width:3px}
+        </style>
+    </defs>
+    <g id="credit-card" transform="translate(.5 -2.59)">
+        <rect id="Rectangle_282" width="54" height="39" class="cls-1" data-name="Rectangle 282" rx="2" transform="translate(1 4.089)"/>
+        <path id="Path_832" d="M1 10h53.748" class="cls-1" data-name="Path 832" transform="translate(0 8.659)"/>
+    </g>
+</svg>

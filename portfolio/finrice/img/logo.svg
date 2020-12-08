@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="154.697" height="40.391" viewBox="0 0 154.697 40.391">
+    <defs>
+        <style>
+            .cls-1,.cls-4{fill:#fff}.cls-1{font-size:20px;font-family:GoodTimesRg-Regular,Good Times;letter-spacing:.03em}.cls-2{fill:none}.cls-3,.cls-4{stroke:none}
+        </style>
+    </defs>
+    <g id="Group_474" data-name="Group 474" transform="translate(-44.303 -8.919)">
+        <text id="FINRISE" class="cls-1" transform="translate(101 43)">
+            <tspan x="0" y="0">FINRISE</tspan>
+        </text>
+        <g id="Polygon_9" class="cls-2" data-name="Polygon 9">
+            <path d="M26.25 0L35 15l-8.75 15H8.75L0 15 8.75 0z" class="cls-3" transform="rotate(-12.04 121.21 -238.449)"/>
+            <path d="M10.473 3l-7 12 7 12h14.054l7-12-7-12H10.473M8.75 0h17.5L35 15l-8.75 15H8.75L0 15 8.75 0z" class="cls-4" transform="rotate(-12.04 121.21 -238.449)"/>
+        </g>
+        <g id="Polygon_10" class="cls-2" data-name="Polygon 10">
+            <path d="M18.75 0L25 11l-6.25 11H6.25L0 11 6.25 0z" class="cls-3" transform="rotate(7 -49.353 388.127)"/>
+            <path d="M7.821 2.7L3.105 11l4.716 8.3h9.358l4.716-8.3-4.716-8.3H7.82M6.25 0h12.5L25 11l-6.25 11H6.25L0 11 6.25 0z" class="cls-4" transform="rotate(7 -49.353 388.127)"/>
+        </g>
+    </g>
+</svg>

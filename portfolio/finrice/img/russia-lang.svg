@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="russia" width="36.824" height="36.825" viewBox="0 0 36.824 36.825">
+    <defs>
+        <style>
+            .cls-1{fill:#f0f0f0}.cls-2{fill:#0052b4}.cls-3{fill:#d80027}
+        </style>
+    </defs>
+    <ellipse id="Ellipse_3" cx="18.412" cy="18.412" class="cls-1" data-name="Ellipse 3" rx="18.412" ry="18.412"/>
+    <path id="Path_101" d="M35.679 179.765a18.479 18.479 0 0 0 0-12.808H1.145a18.479 18.479 0 0 0 0 12.808l17.267 1.6z" class="cls-2" data-name="Path 101" transform="translate(0 -154.949)"/>
+    <path id="Path_102" d="M33.19 357.051a18.419 18.419 0 0 0 17.267-12.008H15.923a18.419 18.419 0 0 0 17.267 12.008z" class="cls-3" data-name="Path 102" transform="translate(-14.778 -320.227)"/>
+</svg>

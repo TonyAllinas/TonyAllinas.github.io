@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42.929" height="38.836" viewBox="0 0 42.929 38.836">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#373737;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px}
+        </style>
+    </defs>
+    <g id="briefcase" transform="translate(-1 -2)">
+        <rect id="Rectangle_230" width="40.929" height="28.65" class="cls-1" data-name="Rectangle 230" rx="2" transform="translate(2 11.186)"/>
+        <path id="Path_317" d="M24.372 39.836V7.093A4.093 4.093 0 0 0 20.279 3h-8.186A4.093 4.093 0 0 0 8 7.093v32.743" class="cls-1" data-name="Path 317" transform="translate(6.279)"/>
+    </g>
+</svg>

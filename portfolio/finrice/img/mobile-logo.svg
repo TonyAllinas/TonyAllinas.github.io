@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30.075" height="25.082" viewBox="0 0 30.075 25.082">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2,.cls-3{stroke:none}.cls-3{fill:#fff}
+        </style>
+    </defs>
+    <g id="Group_511" data-name="Group 511" transform="translate(-172.481 -8.574)">
+        <g id="Polygon_9" class="cls-1" data-name="Polygon 9">
+            <path d="M16.3 0l5.433 9.314-5.433 9.315H5.433L0 9.314 5.433 0z" class="cls-2" transform="rotate(-12.04 162.605 -835.806)"/>
+            <path d="M6.582 2L2.315 9.314l4.267 7.315h8.57l4.266-7.315L15.152 2h-8.57M5.433 0H16.3l5.434 9.314L16.3 18.63H5.433L0 9.314 5.433 0z" class="cls-3" transform="rotate(-12.04 162.605 -835.806)"/>
+        </g>
+        <g id="Polygon_10" class="cls-1" data-name="Polygon 10">
+            <path d="M11.643 0l3.881 6.831-3.881 6.831H3.881L0 6.831 3.881 0z" class="cls-2" transform="rotate(7 17.016 1426.385)"/>
+            <path d="M4.87 1.7L1.955 6.83l2.915 5.131h5.784l2.915-5.13L10.654 1.7H4.87M3.881 0h7.762l3.881 6.83-3.88 6.831H3.88L0 6.831 3.881 0z" class="cls-3" transform="rotate(7 17.016 1426.385)"/>
+        </g>
+    </g>
+</svg>

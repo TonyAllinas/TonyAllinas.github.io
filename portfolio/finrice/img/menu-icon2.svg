@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="58" height="39.468" viewBox="0 0 58 39.468">
+    <defs>
+        <style>
+            .cls-1,.cls-5{fill:none}.cls-1,.cls-2{stroke:#373737}.cls-1{stroke-linecap:round;stroke-linejoin:round;stroke-width:2px}.cls-2{fill:#f2f2f2}.cls-3{fill:#373737;font-size:11px;font-family:GoodTimesRg-Regular,Good Times}.cls-4{stroke:none}
+        </style>
+    </defs>
+    <g id="Group_473" data-name="Group 473" transform="translate(-530 -175.032)">
+        <g id="shield" transform="translate(527 174.032)">
+            <path id="Path_307" d="M18.987 39.468s14.987-7.494 14.987-18.734V7.62L18.987 2 4 7.62v13.114c0 11.24 14.987 18.734 14.987 18.734z" class="cls-1" data-name="Path 307"/>
+        </g>
+        <g id="Rectangle_321" class="cls-2" data-name="Rectangle 321" transform="translate(545 197)">
+            <rect width="43" height="17" class="cls-4" rx="8.5"/>
+            <rect width="42" height="16" x=".5" y=".5" class="cls-5" rx="8"/>
+        </g>
+        <text id="Pro" class="cls-3" transform="translate(567 210)">
+            <tspan x="-15.065" y="0">Pro</tspan>
+        </text>
+    </g>
+</svg>
